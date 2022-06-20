@@ -1,0 +1,4 @@
+there are three ways to store your files.
+1: saving the file directly into your server.
+2: saving the file's binary data or base64 string data in Database.
+3: saving the file in cloud plateforms like aws, s3 buckets etc.
